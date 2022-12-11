@@ -207,9 +207,6 @@ input{
         align-self: center;
         width: 80%;
     }
-    .container1{
-        display: block;
-    }
     .inner-container1{
         flex-wrap: wrap;
         gap: 2rem;
